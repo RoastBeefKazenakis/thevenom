@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/https://roastbeefkazenakis.github.io/2021/03/07/intro.html</loc>
+<lastmod>2021-03-07T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/https://roastbeefkazenakis.github.io/jekyll/update/2021/03/07/welcome-to-jekyll.html</loc>
+<lastmod>2021-03-07T16:47:31-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/https://roastbeefkazenakis.github.io/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/https://roastbeefkazenakis.github.io/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/https://roastbeefkazenakis.github.io/assets/bower_components/html5shiv/MIT%20and%20GPL2%20licenses.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/https://roastbeefkazenakis.github.io/assets/bower_components/html5shiv/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/https://roastbeefkazenakis.github.io/assets/bower_components/katex/dist/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/https://roastbeefkazenakis.github.io/assets/bower_components/webfontloader/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/https://roastbeefkazenakis.github.io/assets/icomoon/demo.html</loc>
+<lastmod>2021-03-07T17:38:00-05:00</lastmod>
+</url>
+</urlset>
