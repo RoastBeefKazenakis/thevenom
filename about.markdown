@@ -2,7 +2,7 @@
 layout: welcome
 title: About
 permalink: /about/
-welcome: true
+cover: true
 ---
 
 This is my page, I made it -- the following is garbage jekyllrb.com](https://jekyllrb.com/)
