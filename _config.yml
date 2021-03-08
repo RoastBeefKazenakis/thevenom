@@ -21,11 +21,11 @@
 title: <a href = "https://www.grammar-monster.com/easily_confused/poisonous_venomous.htm">The Venom</a>
 email: sabinowitz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Venom is literary publication 2.0.(?) <br/><br/> 
-  It is not a newsletter (yet). <br/><br/> 
-  It is **not** what you want it to be.  <br/> <br/>
-  It's simply facts -- take them or leave them. <br/> <br/>  
-  *namaste*
+  ## The Venom is literary publication 2.0.(?) <br/><br/> 
+  ### It is not a newsletter (yet). <br/><br/> 
+  ### It is **not** what you want it to be.  <br/> <br/>
+  ### It's simply facts -- take them or leave them. <br/> <br/>  
+  ### *namaste*
 #baseurl: "https://roastbeefkazenakis.github.io" # the subpath of your site, e.g. /blog
 #url: "/thevenom" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sabinowitz
