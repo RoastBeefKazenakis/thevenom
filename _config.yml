@@ -37,6 +37,9 @@ gems:
   - jekyll-feed
   - jekyll-include-cache
 
+# Customization --
+
+accent_image: /assets/img/namaste.jpg
 
 # Exclude from processing.
 # The following items will not be processed, by default.
