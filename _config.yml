@@ -30,6 +30,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 #url: "/thevenom" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sabinowitz
 github_username:  roastbeefkazenakis
+tagline: "The Venom"
 
 # Build settings
 remote_theme: hydecorp/hydejack@v9.1.2
@@ -39,7 +40,7 @@ gems:
 
 # Customization --
 
-accent_image: /assets/img/namaste.jpg
+accent_image: /assets/img/sidebar-bg.jpg
 accent_color: rgb(147,190,37)
 
 # Exclude from processing.
