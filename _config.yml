@@ -32,7 +32,7 @@ twitter_username: sabinowitz
 github_username:  roastbeefkazenakis
 
 # Build settings
-theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9.1.2
 gems:
   - jekyll-feed
   - jekyll-include-cache
