@@ -4,6 +4,7 @@
 
 layout: home
 cover: true
+title: Welcome to The Venom
 ---
 
 # This is the song that never ends
